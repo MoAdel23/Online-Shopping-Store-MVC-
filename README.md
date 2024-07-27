@@ -18,7 +18,7 @@ Online Shopping Store is an E-commerce website that allows people to buy and sel
   
 ## Contact
 - **Resume:** [[Mohamed Adel](https://drive.google.com/file/d/1LkV_SbOhF7f19zlx31JCLC4W6mROGILS/view?usp=sharing)]
-- **Email:** [[m.adel102023@gmail.com](m.adel102023@gmail.com)]
+- **Email:** [m.adel102023@gmail.com]
 - **LinkedIn:** [[Mohamed Adel](https://www.linkedin.com/in/mohamed-adel-34b495256/)]
 
 ---
