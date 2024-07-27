@@ -1,0 +1,17 @@
+E:\Computer Sience\Back_End\MVC\Pratice\Eshop\Eshop.DataAccess\bin\Debug\net8.0\Eshop.DataAccess.deps.json
+E:\Computer Sience\Back_End\MVC\Pratice\Eshop\Eshop.DataAccess\bin\Debug\net8.0\Eshop.DataAccess.dll
+E:\Computer Sience\Back_End\MVC\Pratice\Eshop\Eshop.DataAccess\bin\Debug\net8.0\Eshop.DataAccess.pdb
+E:\Computer Sience\Back_End\MVC\Pratice\Eshop\Eshop.DataAccess\obj\Debug\net8.0\Eshop.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\Computer Sience\Back_End\MVC\Pratice\Eshop\Eshop.DataAccess\obj\Debug\net8.0\Eshop.DataAccess.AssemblyInfoInputs.cache
+E:\Computer Sience\Back_End\MVC\Pratice\Eshop\Eshop.DataAccess\obj\Debug\net8.0\Eshop.DataAccess.AssemblyInfo.cs
+E:\Computer Sience\Back_End\MVC\Pratice\Eshop\Eshop.DataAccess\obj\Debug\net8.0\Eshop.DataAccess.csproj.CoreCompileInputs.cache
+E:\Computer Sience\Back_End\MVC\Pratice\Eshop\Eshop.DataAccess\obj\Debug\net8.0\Eshop.DataAccess.dll
+E:\Computer Sience\Back_End\MVC\Pratice\Eshop\Eshop.DataAccess\obj\Debug\net8.0\refint\Eshop.DataAccess.dll
+E:\Computer Sience\Back_End\MVC\Pratice\Eshop\Eshop.DataAccess\obj\Debug\net8.0\Eshop.DataAccess.pdb
+E:\Computer Sience\Back_End\MVC\Pratice\Eshop\Eshop.DataAccess\obj\Debug\net8.0\ref\Eshop.DataAccess.dll
+E:\Computer Sience\Back_End\MVC\Pratice\Eshop\Eshop.DataAccess\obj\Debug\net8.0\Eshop.DataAccess.csproj.AssemblyReference.cache
+E:\Computer Sience\Back_End\MVC\Pratice\Eshop\Eshop.DataAccess\bin\Debug\net8.0\Eshop.DataAccess.runtimeconfig.json
+E:\Computer Sience\Back_End\MVC\Pratice\Eshop\Eshop.DataAccess\bin\Debug\net8.0\Eshop.Entities.dll
+E:\Computer Sience\Back_End\MVC\Pratice\Eshop\Eshop.DataAccess\bin\Debug\net8.0\Eshop.Entities.pdb
+E:\Computer Sience\Back_End\MVC\Pratice\Eshop\Eshop.DataAccess\obj\Debug\net8.0\Eshop.Da.E39AB3F2.Up2Date
+E:\Computer Sience\Back_End\MVC\Pratice\Eshop\Eshop.DataAccess\obj\Debug\net8.0\Eshop.DataAccess.genruntimeconfig.cache

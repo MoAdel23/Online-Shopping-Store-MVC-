@@ -1,0 +1,12 @@
+E:\Computer Sience\Back_End\MVC\Pratice\Eshop\Eshop.Entities\bin\Debug\net8.0\Eshop.Entities.deps.json
+E:\Computer Sience\Back_End\MVC\Pratice\Eshop\Eshop.Entities\bin\Debug\net8.0\Eshop.Entities.dll
+E:\Computer Sience\Back_End\MVC\Pratice\Eshop\Eshop.Entities\bin\Debug\net8.0\Eshop.Entities.pdb
+E:\Computer Sience\Back_End\MVC\Pratice\Eshop\Eshop.Entities\obj\Debug\net8.0\Eshop.Entities.GeneratedMSBuildEditorConfig.editorconfig
+E:\Computer Sience\Back_End\MVC\Pratice\Eshop\Eshop.Entities\obj\Debug\net8.0\Eshop.Entities.AssemblyInfoInputs.cache
+E:\Computer Sience\Back_End\MVC\Pratice\Eshop\Eshop.Entities\obj\Debug\net8.0\Eshop.Entities.AssemblyInfo.cs
+E:\Computer Sience\Back_End\MVC\Pratice\Eshop\Eshop.Entities\obj\Debug\net8.0\Eshop.Entities.csproj.CoreCompileInputs.cache
+E:\Computer Sience\Back_End\MVC\Pratice\Eshop\Eshop.Entities\obj\Debug\net8.0\Eshop.Entities.dll
+E:\Computer Sience\Back_End\MVC\Pratice\Eshop\Eshop.Entities\obj\Debug\net8.0\refint\Eshop.Entities.dll
+E:\Computer Sience\Back_End\MVC\Pratice\Eshop\Eshop.Entities\obj\Debug\net8.0\Eshop.Entities.pdb
+E:\Computer Sience\Back_End\MVC\Pratice\Eshop\Eshop.Entities\obj\Debug\net8.0\ref\Eshop.Entities.dll
+E:\Computer Sience\Back_End\MVC\Pratice\Eshop\Eshop.Entities\obj\Debug\net8.0\Eshop.Entities.csproj.AssemblyReference.cache
