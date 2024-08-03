@@ -14,6 +14,7 @@ Online Shopping Store is an E-commerce website that allows people to buy and sel
 ## Technologies Used
 - **Backend:** ASP.NET Core MVC, C#, OOP, LINQ, EF Core, SQL Server
 - **Frontend:** HTML, CSS, Bootstrap, JavaScript
+- **Libraries:** Toastr, SweetAlert, DataTables ,Bootbox
 - **Authentication:** ASP.NET Core Identity
   
 ## Contact
